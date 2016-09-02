@@ -1,0 +1,9 @@
+$my-color: #ff0000;
+
+.site-index {
+	.jumbotron {
+		h1 {
+			color:$my-color;
+		}
+	}
+}
