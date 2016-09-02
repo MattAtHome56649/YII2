@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIE,yBAAG;EACF,KAAK,EALG,OAAO",
+"sources": ["my_custom.scss"],
+"names": [],
+"file": "my_custom.css"
+}
